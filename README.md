@@ -14,7 +14,7 @@ Setup
 1. Create a project named app and file named JacksonJsonMap.java under app folder.
 2. Create a POJO class Task.java for storing Task fields.
 3. Create tasks.json file under src/main/resources.
-4. Add these depencies in POm.xal file to run Jackson.
+4. Add these depencies in POm.xml file to run Jackson.
     <dependencies>
 		<dependency>
 			<groupId>com.fasterxml.jackson.datatype</groupId>
